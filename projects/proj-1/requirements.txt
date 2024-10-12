@@ -1,0 +1,5 @@
+assertpy~=1.1
+parameterized
+setuptools~=40.8.0
+pyhamcrest
+nose
